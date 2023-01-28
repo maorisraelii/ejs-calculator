@@ -1,0 +1,40 @@
+body {
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+h2{
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+.intro{
+    font-size: 25px;
+}
+
+.form{
+    font-size: 25px;
+}
+
+.result_form{
+    font-size: 25px;
+}
+
+.result_score{
+    font-size: 30px;
+    font-weight: bold;
+}
+.submit{
+    background: #016abc;
+    color: #fff;
+    border: 1px solid #eee;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #eee;
+    text-shadow: none;
+}
+
+.back{
+    font-size: 25px;
+}
